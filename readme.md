@@ -1,1 +1,1 @@
-Kradle is an instant messaging app, using the powerful MERN stack
+Kradle is an instant messaging app, which uses the powerful MERN stack
